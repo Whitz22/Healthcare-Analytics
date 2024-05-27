@@ -1,0 +1,26 @@
+Observations:
+
+Patient Age Range:
+
+Patients' ages range from 13 to 89 years, with an average age of approximately 52 years.
+Hospital Room Capacity:
+
+The hospital offers a range of rooms, from 101 to 500, ensuring flexibility in patient accommodation.
+Temporal Coverage:
+
+Data spans from May 8, 2019, to May 7, 2024, providing a comprehensive five-year view of patient admissions.
+Admission Types:
+
+Patients enter the hospital through three main admission routes:
+Emergency
+Elective
+Transfer
+Blood Type Distribution:
+
+Patients exhibit various blood types, with A- being the most prevalent.
+Hospital Distribution:
+
+The dataset encompasses admissions from 44 hospitals, with LLC Smith being the most frequent.
+Doctor Distribution:
+
+Among the 27 doctors recorded in the dataset, Michael Smith attends to the highest number of patients.
